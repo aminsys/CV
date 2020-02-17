@@ -1,2 +1,6 @@
 # CV
-My repository for displaying my CV as a web page
+Repository for my CV portfolio.
+
+Check current results [here](https://aminsys.github.io/CV/) 
+
+*Work in progress*
